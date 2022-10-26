@@ -1,0 +1,2 @@
+I shall fast track a entire website as I scrapped the original project two days before the presentation as I was very unhappy with what was in 
+the original project. Watch me fast track a project in under a day~
