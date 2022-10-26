@@ -31,7 +31,17 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
-nav,footer{
+nav{
   border: 3px groove black;
   text-align: center;
+}
+.Copy-Right{
+  float: left;
+  margin-left: 20px;
+}
+
+.Websites{
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px; 
 }
